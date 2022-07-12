@@ -9,7 +9,7 @@
 - Input data must be separated by "," 
 - For example: 
 Andrew, Smith, 60050, 9%, 01 March – 31 March
-Click Ctrl + D to finish input on terminal
+- Click Ctrl + D to finish input on terminal
 
 ## Link to the source on GitHub / Bitbucket
 https://github.com/datastoreking/_Node-Payslip-ShowforEmployee
