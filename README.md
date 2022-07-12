@@ -12,12 +12,12 @@
     https://github.com/datastoreking/_Node-Payslip-ShowforEmployee
 ## Provide instruction on how to run the application
     Open the terminal on root of project
-    ```
-    npm install
-    ```
-    ```
-    node main.js
-    ```
+```
+npm install
+```
+```
+node main.js
+```
     Input the data
     All done!
 ## Provide a test harness to validate your solution
