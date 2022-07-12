@@ -6,8 +6,8 @@
 - String methods slice() is used to get every variable data, Math.round() is used for       rounding.  If >= 50 cents round up to the next dollar increment, otherwise round down.
 
 ## List any assumptions that you have made in order to solve this problem
-Input data must be separated by "," 
-For example: 
+- Input data must be separated by "," 
+- For example: 
 Andrew, Smith, 60050, 9%, 01 March – 31 March
 Click Ctrl + D to finish input on terminal
 
@@ -22,8 +22,8 @@ npm install
 ```
 node main.js
 ```
-Input the data for each employee line by line clicking "Enter"
-Click Ctrl + D to finish input on terminal
+- Input the data for each employee line by line clicking "Enter".
+- Click Ctrl + D to finish input on terminal
 ## Provide a test harness to validate your solution
 On console see directly the result
 Easily test the app is working well
