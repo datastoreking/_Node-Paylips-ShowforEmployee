@@ -13,6 +13,9 @@
 ## Provide instruction on how to run the application
     Open the terminal on root of project
     ```
+    npm install
+    ```
+    ```
     node main.js
     ```
     Input the data
